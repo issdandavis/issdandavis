@@ -2,45 +2,60 @@
 
 # Issac Daniel Davis
 
-**AI Governance · Bounded AI in Governed Loops · Port Angeles, WA**
+**AI Governance · Outcome-Driven LLM Security · Port Angeles, WA**
 
-[![SCBE Tests](https://img.shields.io/badge/tests-950%20passing-brightgreen)](https://github.com/issdandavis/SCBE-AETHERMOORE)
+[![SCBE Tests](https://img.shields.io/badge/tests-29%2C000%2B%20passing-brightgreen)](https://github.com/issdandavis/SCBE-AETHERMOORE)
 [![npm](https://img.shields.io/badge/npm-scbe--aethermoore-blue)](https://www.npmjs.com/package/scbe-aethermoore)
 [![PyPI](https://img.shields.io/badge/pypi-scbe--aethermoore-blue)](https://pypi.org/project/scbe-aethermoore/)
-[![HF Dataset](https://img.shields.io/badge/HF-233K%20SFT%20dataset-yellow)](https://huggingface.co/datasets/issdandavis/scbe-aethermoore-training-data)
+[![HF Dataset](https://img.shields.io/badge/HF-scbe--aethermoore--training--data-yellow)](https://huggingface.co/datasets/issdandavis/scbe-aethermoore-training-data)
 [![USPTO](https://img.shields.io/badge/patent-pending%20%2363%2F961%2C403-lightgrey)](https://github.com/issdandavis/SCBE-AETHERMOORE)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--3936--9369-green)](https://orcid.org/0009-0002-3936-9369)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-issac--davis--scbe--aether-0077b5)](https://www.linkedin.com/in/issac-davis-scbe-aether)
 
-**The pattern across everything I build:**
-*bounded AI inside governed loops*
+**I stop your AI from costing you a lawsuit.**
+
+[🛒 Shop & Services](https://aethermoore.com/services.html) · [📧 Email](mailto:aethermoregames@pm.me) · [🌐 aethermoore.com](https://aethermoore.com/)
 
 </div>
 
 ---
 
-## 🧭 The Unified Story
+## 🎯 What I sell
 
-Three domains. One pattern.
+Three outcome-first productized solutions. Real pricing, no "request a quote," no sales deck.
 
-| Domain | Project | Role |
+| Solution | Price | Who it's for |
 |---|---|---|
-| **AI Governance** | SCBE-AETHERMOORE | The control plane — hyperbolic geometry makes adversarial behavior geometrically expensive |
-| **Inference Orientation** | Polly Pump | Inference-time orientation layer — separates *orientation* from *expression* so models stay aligned without retraining |
-| **Agent Orchestration** | Flock Shepherd (inside SCBE) | Swarm coordinator — bounded teammate AI in flock/assistant lanes |
+| **[CX Refund Guardrail](https://aethermoore.com/cx-guardrail.html)** | $500–5,000/mo | SaaS teams running AI support. Stop your chatbot from promising refunds it can't deliver. Built after *Moffatt v. Air Canada*. |
+| **[ISO 42001 Evidence Service](https://aethermoore.com/iso-42001.html)** | $50K–150K/yr | Banks, insurers, and regulated enterprises. Audit-ready documentation for ISO 42001, SR 11-7, EU AI Act. |
+| **[AI Red Team as a Service](https://aethermoore.com/red-team.html)** | $5K–50K/engagement | Mid-market SaaS with LLM features. 6,066 adversarial tests, branded PDF, 4-week delivery. |
+
+Plus $29 one-time packages (governance toolkit, HYDRA agents, n8n workflows, content engine), training data ($49–$399), and the novel that teaches the framework through story ([*The Six Tongues Protocol*](https://aethermoore.com/book.html)).
+
+**[→ Full shop](https://aethermoore.com/services.html)**
 
 ---
 
-## 🔐 SCBE-AETHERMOORE — AI Governance API
+## 🤝 Custom work
 
-> **Patent pending: USPTO #63/961,403**
+I also take on custom AI projects. **I cover my own AI API costs** — clients don't pay for OpenAI or Anthropic tokens on top of my rate.
+
+- **Fixed-scope project** — flat price after a 30-minute scoping call. $2,500–$15,000 typical.
+- **Hourly consulting** — $150/hour for strategic work, code review, architecture.
+- **Monthly retainer** — ~20 hours/month, $2,500/month. Dedicated Slack, priority response.
+
+[→ Email me about your project](mailto:aethermoregames@pm.me?subject=Custom%20project%20inquiry)
+
+---
+
+## 🔐 SCBE-AETHERMOORE — the framework underneath it all
+
+> **Patent pending: USPTO #63/961,403** · **MIT licensed** · **29,000+ tests passing**
 >
-> Quantum-resistant. 14-layer hyperbolic pipeline. EU AI Act ready. From $49/mo.
->
-> **What it does:** Every AI agent action passes through 14 mathematical layers in a Poincaré ball model. Safe behavior clusters near the center. Adversarial drift hits an exponential cost wall. The framework can't be fooled by prompt injection because it doesn't classify intent — it measures geometric distance from trusted-behavior space.
+> Every AI action passes through 14 mathematical layers in a Poincaré ball model. Safe behavior clusters near the center. Adversarial drift hits an exponential cost wall. The framework can't be fooled by prompt injection because it doesn't classify intent — it measures geometric distance from trusted-behavior space.
 >
 > ```
-> 95.3% adversarial detection  ·  <8ms latency  ·  950+ tests passing
-> ML-KEM-768 + ML-DSA-65 post-quantum crypto  ·  signed audit trail
+> H(d,R) = R^(d²)
 > ```
 >
 > **Install:**
@@ -56,98 +71,63 @@ Three domains. One pattern.
 > // 1.0 = trusted center · 0.0 = boundary
 > ```
 >
-> **[→ SCBE-AETHERMOORE repo](https://github.com/issdandavis/SCBE-AETHERMOORE)**
-> **[→ Live site & pricing](https://aethermoorgames.com)**
+> **[→ SCBE-AETHERMOORE repo](https://github.com/issdandavis/SCBE-AETHERMOORE)** · **[→ 17 interactive demos](https://aethermoore.com/demos/)** · **[→ Research](https://aethermoore.com/research/)**
 
 ---
 
-## 🗣️ Six Sacred Tongues
+## 🧭 The unified story
 
-Six constructed languages — original IP by Issac Davis — each with 256 tokens and phi-weighted scaling:
+Three domains. One pattern: **bounded AI inside governed loops.**
 
-| Tongue | Weight | Domain |
+| Domain | Project | Role |
 |---|---|---|
-| **Kor'aelin (KO)** | 1.00 | Intent |
-| **Avali (AV)** | 1.62 | Metadata |
-| **Runethic (RU)** | 2.62 | Binding |
-| **Cassisivadan (CA)** | 4.24 | Compute |
-| **Umbroth (UM)** | 6.85 | Security |
-| **Draumric (DR)** | 11.09 | Structure |
-
-*Cassisivadan = "Issac" reversed + "Davis" reversed.*
-
-**Null space tongue signatures** detect attacks by *absence patterns* — what a message does not say is as diagnostic as what it does.
+| **AI Governance** | [SCBE-AETHERMOORE](https://github.com/issdandavis/SCBE-AETHERMOORE) | Hyperbolic control plane — adversarial behavior becomes geometrically expensive |
+| **Inference Orientation** | Polly (assistant) | Route-first operator that sits in front of site flows — sees every page, maps intent to catalog |
+| **Agent Orchestration** | HYDRA (inside SCBE) | Swarm coordinator — 6-agent teammate AI in flock/assistant lanes |
 
 ---
 
-## 🧬 Binary-First Training Stack
+## 📚 Other things I build
 
-A 233K multi-view SFT dataset on HuggingFace ([issdandavis/scbe-aethermoore-training-data](https://huggingface.co/datasets/issdandavis/scbe-aethermoore-training-data)) built on a four-level stack:
+- **[The Six Tongues Protocol](https://www.amazon.com/dp/B0F28PHSPR)** — 70K-word novel that teaches the SCBE framework through story. 22 chapters. Same vocabulary as the codebase.
+- **[PHDM-21D Embedding Model](https://github.com/issdandavis/phdm-21d-embedding)** — 21-dimensional Poincaré Ball embedding: 6D hyperbolic + 6D phase + 3D flux + 6D audit.
+- **[Hyperbolica](https://github.com/issdandavis/hyperbolica)** — Hyperbolic geometry primitives.
+- **[Six Tongues GeoSeal](https://github.com/issdandavis/six-tongues-geoseal)** — Bijective tokenization + context-aware encryption.
+- **[AetherBrowser](https://github.com/issdandavis/aetherbrowser)** — Governance-aware browser runtime.
+- **[AI Arena](https://aethermoore.com/arena.html)** — 9-model debate sandbox. BYOK. Runs in your browser.
 
-| Level | Function |
+---
+
+## 🛠️ Stack & workflow
+
+I build from a **Chromebook with 2.7GB of RAM**. Heavy compute runs on HuggingFace, Google Colab, and GitHub Actions. I don't write code directly — AI writes it, I architect and make decisions. You don't need a fancy machine to build real things.
+
+- **Language:** Python + TypeScript
+- **Tests:** 29,000+ across 6 tiers (L1-basic through L6-adversarial)
+- **CI:** GitHub Actions
+- **Training:** QLoRA on HF, fine-tunes published to `huggingface.co/issdandavis`
+- **Datasets:** 11 datasets on HuggingFace, flagship at 1,484+ downloads
+- **Distribution:** npm + PyPI + HuggingFace + direct from [aethermoore.com](https://aethermoore.com/)
+
+---
+
+## 📫 Where to find me
+
+| Platform | Handle |
 |---|---|
-| **L0** | Raw bytes |
-| **L1** | Tongue tokens (Sacred Tongues bijective tokenization) |
-| **L2** | Pump orientation (Polly Pump inference-time alignment) |
-| **L3** | Expression (final output) |
+| **Email** | [aethermoregames@pm.me](mailto:aethermoregames@pm.me) |
+| **LinkedIn** | [issac-davis-scbe-aether](https://www.linkedin.com/in/issac-davis-scbe-aether) |
+| **GitHub** | [issdandavis](https://github.com/issdandavis) |
+| **HuggingFace** | [issdandavis](https://huggingface.co/issdandavis) |
+| **Kaggle** | [issacizrealdavis](https://www.kaggle.com/issacizrealdavis) |
+| **Ollama** | [issdandavis7795](https://ollama.com/issdandavis7795) |
+| **YouTube** | [@id8461](https://www.youtube.com/@id8461) |
+| **Site** | [aethermoore.com](https://aethermoore.com/) |
 
 ---
 
-## 🐑 Flock Shepherd — Multi-Agent Fleet Orchestrator
+<div align="center">
 
-Govern AI agent swarms as a collective. Spawn, monitor, and rebalance fleets using balanced ternary consensus. Agents that degrade get their tasks redistributed automatically — no central coordinator required.
+*Built in Port Angeles, WA · Patent pending USPTO #63/961,403 · MIT licensed framework · Direct from me to you*
 
-```python
-from scbe_aethermoore.flock_shepherd import FlockShepherd, SheepRole
-shepherd = FlockShepherd(max_flock_size=50)
-agent_id = shepherd.spawn_agent(role=SheepRole.EXECUTOR, training_track="code_review")
-decision = shepherd.propose_action("deploy_update")  # ALLOW / QUARANTINE / DENY
-```
-
----
-
-## 🔭 Supporting Repos & Tools
-
-| Repo | What it is |
-|---|---|
-| [six-tongues-geoseal](https://github.com/issdandavis/six-tongues-geoseal) | Six Tongues tokenizer + GeoSeal CLI (MIT) |
-| [spiralverse-protocol](https://github.com/issdandavis/spiralverse-protocol) | Spiralverse Protocol (MIT) |
-| [phdm-21d-embedding](https://github.com/issdandavis/phdm-21d-embedding) | PHDM 21D embedding experiments |
-| [naksha-studio](https://github.com/issdandavis/naksha-studio) | Naksha Studio |
-| [oh-my-codex](https://github.com/issdandavis/oh-my-codex) | Oh My Codex |
-| [arckit-codex](https://github.com/issdandavis/arckit-codex) | Arckit Codex |
-| [issdandavis.github.io](https://github.com/issdandavis/issdandavis.github.io) | aethermoorgames.com landing page source |
-
----
-
-## 📚 The Novel
-
-**The Spiral of Pollyoneth** — a Spiralverse novel. How a DnD campaign became an AI governance framework.
-
----
-
-## 💼 Commercial & Licensing
-
-SCBE-AETHERMOORE is **dual-licensed**: MIT core (non-commercial free) + commercial license for production use.
-
-| Tier | Price | Agents |
-|---|---|---|
-| Starter | $49/mo | Up to 8 |
-| Pro | $149/mo | Up to 40 |
-| Enterprise | $499/mo | Up to 250 |
-
-**[→ Full pricing](https://aethermoorgames.com/#pricing)**
-**[→ GitHub Sponsors](https://github.com/sponsors/issdandavis)**
-**[→ Ko-fi](https://ko-fi.com/izdandavis)**
-
----
-
-## 🤝 Contact
-
-**Issac Daniel Davis**
-📧 issdandavis@gmail.com
-🐦 [@davisissac](https://x.com/davisissac)
-📝 [Substack](https://substack.com/@issdandavis)
-🌐 [aethermoorgames.com](https://aethermoorgames.com)
-🔬 ORCID: [0009-0002-3936-9369](https://orcid.org/0009-0002-3936-9369)
-🏛️ Patent pending: USPTO #63/961,403
+</div>
