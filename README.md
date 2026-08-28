@@ -4,7 +4,6 @@
 
 **AI Governance · Outcome-Driven LLM Security · Port Angeles, WA**
 
-[![SCBE Tests](https://img.shields.io/badge/tests-29%2C000%2B%20passing-brightgreen)](https://github.com/issdandavis/SCBE-AETHERMOORE)
 [![npm](https://img.shields.io/badge/npm-scbe--aethermoore-blue)](https://www.npmjs.com/package/scbe-aethermoore)
 [![PyPI](https://img.shields.io/badge/pypi-scbe--aethermoore-blue)](https://pypi.org/project/scbe-aethermoore/)
 [![HF Dataset](https://img.shields.io/badge/HF-scbe--aethermoore--training--data-yellow)](https://huggingface.co/datasets/issdandavis/scbe-aethermoore-training-data)
@@ -28,9 +27,9 @@ Three outcome-first productized solutions. Real pricing, no "request a quote," n
 |---|---|---|
 | **[CX Refund Guardrail](https://aethermoore.com/cx-guardrail.html)** | $500–5,000/mo | SaaS teams running AI support. Stop your chatbot from promising refunds it can't deliver. Built after *Moffatt v. Air Canada*. |
 | **[ISO 42001 Evidence Service](https://aethermoore.com/iso-42001.html)** | $50K–150K/yr | Banks, insurers, and regulated enterprises. Audit-ready documentation for ISO 42001, SR 11-7, EU AI Act. |
-| **[AI Red Team as a Service](https://aethermoore.com/red-team.html)** | $5K–50K/engagement | Mid-market SaaS with LLM features. 6,066 adversarial tests, branded PDF, 4-week delivery. |
+| **[AI Red Team as a Service](https://aethermoore.com/red-team.html)** | $5K–50K/engagement | Mid-market SaaS with LLM features. Adversarial test suite, written findings, fixed 4-week window. |
 
-Plus $29 one-time packages (governance toolkit, HYDRA agents, n8n workflows, content engine), training data ($49–$399), and the novel that teaches the framework through story ([*The Six Tongues Protocol*](https://aethermoore.com/book.html)).
+**Buy it now, no call required:** Governance Toolkit ($29) · Training Vault ($29) · training data at [$99](https://aethermoore.com/services.html) / $299 / $999 (Lore Verbatim Pack, Technical Core, Red Team Fortress) · and the novel that teaches the framework through story ([*The Six Tongues Protocol*](https://aethermoore.com/book.html)).
 
 **[→ Full shop](https://aethermoore.com/services.html)**
 
@@ -50,9 +49,9 @@ I also take on custom AI projects. **I cover my own AI API costs** — clients d
 
 ## 🔐 SCBE-AETHERMOORE — the framework underneath it all
 
-> **Patent pending: USPTO #63/961,403** · **MIT licensed** · **29,000+ tests passing**
+> **Patent pending: USPTO provisional #63/961,403, filed 2026-01-15. Sole inventor.** · **MIT licensed**
 >
-> Every AI action passes through 14 mathematical layers in a Poincaré ball model. Safe behavior clusters near the center. Adversarial drift hits an exponential cost wall. The framework can't be fooled by prompt injection because it doesn't classify intent — it measures geometric distance from trusted-behavior space.
+> Every AI action passes through 14 mathematical layers in a Poincaré ball model. Safe behavior clusters near the center. Adversarial drift hits a super-linear cost wall. The framework can't be fooled by prompt injection because it doesn't classify intent — it measures geometric distance from trusted-behavior space.
 >
 > ```
 > H(d,R) = R^(d²)
@@ -71,7 +70,11 @@ I also take on custom AI projects. **I cover my own AI API costs** — clients d
 > // 1.0 = trusted center · 0.0 = boundary
 > ```
 >
-> **[→ SCBE-AETHERMOORE repo](https://github.com/issdandavis/SCBE-AETHERMOORE)** · **[→ 17 interactive demos](https://aethermoore.com/demos/)** · **[→ Research](https://aethermoore.com/research/)**
+> **Test suite:** 13,960 Python tests and 6,504 TypeScript tests across 6 tiers (L1-basic → L6-adversarial). Python collection currently reports 2 errors; the nightly suite is the authority.
+>
+> **Measured honestly:** hyperbolic distance did *not* beat cosine similarity on trust AUC in our own benchmarks. The claim is that the mechanism works as described — not that it wins every metric. Nulls are published next to the wins.
+>
+> **[→ SCBE-AETHERMOORE repo](https://github.com/issdandavis/SCBE-AETHERMOORE)** · **[→ Interactive demos](https://aethermoore.com/demos/)** · **[→ Research](https://aethermoore.com/research/)**
 
 ---
 
@@ -103,10 +106,10 @@ Three domains. One pattern: **bounded AI inside governed loops.**
 I build from a **Chromebook with 2.7GB of RAM**. Heavy compute runs on HuggingFace, Google Colab, and GitHub Actions. I don't write code directly — AI writes it, I architect and make decisions. You don't need a fancy machine to build real things.
 
 - **Language:** Python + TypeScript
-- **Tests:** 29,000+ across 6 tiers (L1-basic through L6-adversarial)
+- **Tests:** 20,000+ across 6 tiers (L1-basic through L6-adversarial)
 - **CI:** GitHub Actions
 - **Training:** QLoRA on HF, fine-tunes published to `huggingface.co/issdandavis`
-- **Datasets:** 11 datasets on HuggingFace, flagship at 1,484+ downloads
+- **Published on HuggingFace:** 23 datasets and 17 fine-tuned models — pinned by eval evidence, not download count
 - **Distribution:** npm + PyPI + HuggingFace + direct from [aethermoore.com](https://aethermoore.com/)
 
 ---
