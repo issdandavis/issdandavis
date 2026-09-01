@@ -11,7 +11,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--3936--9369-green)](https://orcid.org/0009-0002-3936-9369)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-issac--davis--scbe--aether-0077b5)](https://www.linkedin.com/in/issac-davis-scbe-aether)
 
-**I stop your AI from costing you a lawsuit.**
+**I help you stop your AI from costing you a lawsuit.**
 
 [🛒 Shop & Services](https://aethermoore.com/services.html) · [📧 Email](mailto:aethermoregames@pm.me) · [🌐 aethermoore.com](https://aethermoore.com/)
 
