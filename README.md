@@ -44,7 +44,7 @@ For larger engineering work, I take a small number of fixed-scope projects invol
 - Packages: [npm](https://www.npmjs.com/package/scbe-aethermoore) and [PyPI](https://pypi.org/project/scbe-aethermoore/)
 - Models and datasets: [Hugging Face](https://huggingface.co/issdandavis)
 - Research notes, demos, and evidence boundaries: [aethermoore.com](https://aethermoore.com/)
-- Books: [The Six Tongues Protocol](https://www.amazon.com/dp/B0F28PHSPR) and the rest of the [AetherMoore library](https://aethermoore.com/books.html)
+- Books: [The Six Tongues Protocol](https://www.amazon.com/dp/B0GSSFQD9G) and the rest of the [AetherMoore library](https://aethermoore.com/books.html)
 - Patent pending: USPTO provisional application **63/961,403** (filed January 15, 2026)
 
 ## How I measure claims
